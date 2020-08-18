@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1394698411",
+    "firebase_url": "https://bmail-11c7f.firebaseio.com",
+    "project_id": "bmail-11c7f",
+    "storage_bucket": "bmail-11c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1394698411:android:d4cca05dc02aecd7e4efee",
+        "android_client_info": {
+          "package_name": "com.project.bmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1394698411-65t3aeefmk5cdmernaepbtah824fnkbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWOPOKYAt-I42F5eS4T4wTxgVDccreFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1394698411-65t3aeefmk5cdmernaepbtah824fnkbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
