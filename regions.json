@@ -1,0 +1,41 @@
+{
+    "Count": 6,
+    "RegionList": [
+        {
+            "id": 4,
+            "region_en": "Spain",
+            "region_es": "ESSpain",
+            "status": 1
+        },
+        {
+            "id": 3,
+            "region_en": "Germany",
+            "region_es": "ESGermany",
+            "status": 1
+        },
+        {
+            "id": 5,
+            "region_en": "France",
+            "region_es": "ESFrance",
+            "status": 1
+        },
+        {
+            "id": 8,
+            "region_en": "United Kingdom",
+            "region_es": "ESUnited Kingdom",
+            "status": 1
+        },
+        {
+            "id": 9,
+            "region_en": "Argentina",
+            "region_es": "ESArgentina",
+            "status": 1
+        },
+        {
+            "id": 7,
+            "region_en": "World",
+            "region_es": "ESWorld",
+            "status": 1
+        }
+    ]
+}
