@@ -2,35 +2,43 @@
     "categories": [
         {
             "id": 5,
-            "category_name": "Politics"
+            "category_en": "Politics",
+            "category_es": "ESPolitics"
         },
         {
             "id": 6,
-            "category_name": "Economy"
+            "category_en": "Economy",
+            "category_es": "ESEconomy"
         },
         {
             "id": 8,
-            "category_name": "Sports"
+            "category_en": "Sports",
+            "category_es": "ESSports"
         },
         {
             "id": 7,
-            "category_name": "Entertainment"
+            "category_en": "Entertainment",
+            "category_es": "ESEntertainment"
         },
         {
             "id": 9,
-            "category_name": "Regional"
+            "category_en": "Regional",
+            "category_es": "ESRegional"
         },
         {
             "id": 10,
-            "category_name": "Technology"
+            "category_en": "Technology",
+            "category_es": "ESTechnology"
         },
         {
             "id": 16,
-            "category_name": "COVID News"
+            "category_en": "COVID News",
+            "category_es": "ESCOVID News"
         },
         {
             "id": 17,
-            "category_name": "Bright side"
+            "category_en": "Bright side",
+            "category_es": "ESBright side"
         }
     ]
 }
