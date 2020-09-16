@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "id": 5,
+            "category_name": "Politics"
+        },
+        {
+            "id": 6,
+            "category_name": "Economy"
+        },
+        {
+            "id": 8,
+            "category_name": "Sports"
+        },
+        {
+            "id": 7,
+            "category_name": "Entertainment"
+        },
+        {
+            "id": 9,
+            "category_name": "Regional"
+        },
+        {
+            "id": 10,
+            "category_name": "Technology"
+        },
+        {
+            "id": 16,
+            "category_name": "COVID News"
+        },
+        {
+            "id": 17,
+            "category_name": "Bright side"
+        }
+    ]
+}
