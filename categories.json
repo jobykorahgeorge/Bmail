@@ -3,42 +3,50 @@
         {
             "id": 5,
             "category_en": "Politics",
-            "category_es": "ESPolitics"
+            "category_es": "ESPolitics",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/politics.png"
         },
         {
             "id": 6,
             "category_en": "Economy",
-            "category_es": "ESEconomy"
+            "category_es": "ESEconomy",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/economy.png"
         },
         {
             "id": 8,
             "category_en": "Sports",
-            "category_es": "ESSports"
+            "category_es": "ESSports",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/sports.png"
         },
         {
             "id": 7,
             "category_en": "Entertainment",
-            "category_es": "ESEntertainment"
+            "category_es": "ESEntertainment",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/ent.png"
         },
         {
             "id": 9,
             "category_en": "Regional",
-            "category_es": "ESRegional"
+            "category_es": "ESRegional",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/regional.png"
         },
         {
             "id": 10,
             "category_en": "Technology",
-            "category_es": "ESTechnology"
+            "category_es": "ESTechnology",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/tech.png"
         },
         {
             "id": 16,
             "category_en": "COVID News",
-            "category_es": "ESCOVID News"
+            "category_es": "ESCOVID News",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/covidNews.png"
         },
         {
             "id": 17,
             "category_en": "Bright side",
-            "category_es": "ESBright side"
+            "category_es": "ESBright side",
+            "icon_url":"https://testingrobin.s3.ap-south-1.amazonaws.com/categories/bSide.png"
         }
     ]
 }
