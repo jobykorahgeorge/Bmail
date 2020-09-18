@@ -5,37 +5,43 @@
             "id": 4,
             "region_en": "Spain",
             "region_es": "ESSpain",
-            "status": 1
+            "status": 1,
+            "flag_url" : "https://testingrobin.s3.ap-south-1.amazonaws.com/flags/spain.png"
         },
         {
             "id": 3,
             "region_en": "Germany",
             "region_es": "ESGermany",
-            "status": 1
+            "status": 1,
+            "flag_url" : "https://testingrobin.s3.ap-south-1.amazonaws.com/flags/germany.png"
         },
         {
             "id": 5,
             "region_en": "France",
             "region_es": "ESFrance",
-            "status": 1
+            "status": 1,
+            "flag_url" : "https://testingrobin.s3.ap-south-1.amazonaws.com/flags/france.png"
         },
         {
             "id": 8,
             "region_en": "United Kingdom",
             "region_es": "ESUnited Kingdom",
-            "status": 1
+            "status": 1,
+            "flag_url" : "https://testingrobin.s3.ap-south-1.amazonaws.com/flags/uk.png"
         },
         {
             "id": 9,
             "region_en": "Argentina",
             "region_es": "ESArgentina",
-            "status": 1
+            "status": 1,
+            "flag_url" : "https://testingrobin.s3.ap-south-1.amazonaws.com/flags/argentina.png"
         },
         {
             "id": 7,
             "region_en": "World",
             "region_es": "ESWorld",
-            "status": 1
+            "status": 1,
+            "flag_url" : "https://testingrobin.s3.ap-south-1.amazonaws.com/flags/planet-earth.png"
         }
     ]
 }
